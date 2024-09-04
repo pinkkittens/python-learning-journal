@@ -8,4 +8,6 @@ Goals for This Course
 I want to learn Python so I can prepare for grad school, to study Cybersecurity.
 
 My First Python Program
-'''print("Hello World")'''
+'''
+print("Hello World")
+'''
